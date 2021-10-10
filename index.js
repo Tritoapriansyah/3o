@@ -2429,7 +2429,7 @@ case 'triggered':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		itsmevall.sendMessage(from, { text: "https://github.com/rivalgans", matchedText: 'nopee', description: "", title: "Ngapain Om?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		itsmevall.sendMessage(from, { text: "https://github.com/Tritoapriansyah/3o", matchedText: 'nopee', description: "", title: "Ngapain Om?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
